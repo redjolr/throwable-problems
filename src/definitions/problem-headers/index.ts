@@ -1,0 +1,6 @@
+export { UnauthorizedProblemHeaders } from './UnauthorizedProblemHeaders'
+export { MethodNotAllowedProblemHeaders } from './MethodNotAllowedProblemHeaders'
+export { ProxyAuthenticationRequiredProblemHeaders } from './ProxyAuthenticationRequiredProblemHeaders'
+export { PayloadTooLargeHeaders } from './PayloadTooLargeHeaders'
+export { UpgradeRequiredHeaders } from './UpgradeRequiredHeaders'
+export { TooManyRequestsHeaders } from './TooManyRequestsHeaders'
